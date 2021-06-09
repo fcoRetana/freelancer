@@ -1,0 +1,20 @@
+.bg-primary {
+    background-color: blue;
+}
+
+.bg-about{
+    background-color: green;
+}
+
+section{
+    background-color: green;
+}
+
+section:nth-child(2n){
+    background-color: violet;
+}
+
+.masthead-avatar{
+    border-radius: 50%;
+
+}
